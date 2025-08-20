@@ -40,6 +40,8 @@ The number at the left-hand side of the screen shows the current angle used for 
 
 I used a mixture of graphics and text to show the capability of the HUD.
 
+Here's a [![short video](https://img.youtube.com/vi/Fb4MtecQfEg/0.jpg)](https://www.youtube.com/watch?v=Fb4MtecQfEg) showing the project working.
+
 ## Technical Overview
 
 The project uses an Arduino Sketch to output to the HUD, although the microcontroller I chose has its own screen. The integrated screen is bypassed, if the HUD is detected. The Sketch will output to the integrated screen if the HUD is not connected.
