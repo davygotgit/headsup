@@ -40,7 +40,9 @@ The number at the left-hand side of the screen shows the current angle used for 
 
 I used a mixture of graphics and text to show the capability of the HUD.
 
-Here's a [![short video](https://img.youtube.com/vi/Fb4MtecQfEg/0.jpg)](https://www.youtube.com/watch?v=Fb4MtecQfEg) showing the project working.
+Here's a video showing the project working:
+
+[![short video](https://img.youtube.com/vi/Fb4MtecQfEg/0.jpg)](https://www.youtube.com/watch?v=Fb4MtecQfEg)
 
 ## Technical Overview
 
