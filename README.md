@@ -78,7 +78,7 @@ However, the image is not entirely visible in direct light:
 
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/039361c9-9ad4-4a3a-abef-9cbdf08461b0" />
 
-What do I need?
+## What do I need?
 
 You will need:
 
@@ -128,7 +128,7 @@ You know you are connected to the Core2 if you see something similar to the foll
 
 <img width="519" height="67" alt="image" src="https://github.com/user-attachments/assets/38677afb-bad5-4221-92e6-b30cb8227f21" />
 
-How do I build and install the application?
+## How do I build and install the application?
 
 You need to download the code from the GIT repository. This can be done by visiting https://github.com/davygotgit/headsup and downloading, and then extracting, a ZIP file or by running the following terminal command from bash, a Windows Command Prompt or any suitable GIT access tool:
 
